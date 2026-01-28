@@ -18,3 +18,18 @@ It is created for learning purposes and follows the Java Backend Junior roadmap.
 
 ## Project Structure
 
+src/
+Main.java
+User.java
+Product.java
+Order.java
+ShopService.java
+Category.java
+Exceptions/
+IndexOutOfStockException.java
+InsufficientBalanceException.java
+InvalidBalance.java
+InvalidCategory.java
+InvalidName.java
+InvalidPrice.java
+InvalidStock.java
